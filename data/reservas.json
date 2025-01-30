@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "hotel": "CC Puerto Montt",
+    "fecha_inicio": "2025-01-05",
+    "fecha_fin": "2025-01-07",
+    "estado": "no show",
+    "pago": "multa pagada",
+    "tipo_habitacion": "individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Franco Parisi",
+        "rut, pasaporte o DNI": "10111111-1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "hotel": "CC Punta Arenas",
+    "fecha_inicio": "2025-02-05",
+    "fecha_fin": "2025-02-07",
+    "estado": "solicitada",
+    "pago": "pendiente",
+    "tipo_habitacion": "individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Franco Parisi",
+        "rut, pasaporte o DNI": "10111111-1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "hotel": "CC Puerto Montt",
+    "fecha_inicio": "2025-02-04",
+    "fecha_fin": "2025-02-06",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Evelyn Matthei",
+        "rut, pasaporte o DNI": "10222222-2"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "hotel": "CC Punta Arenas",
+    "fecha_inicio": "2025-02-01",
+    "fecha_fin": "2025-02-04",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Evelyn Matthei",
+        "rut, pasaporte o DNI": "10222222-2"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "hotel": "CC Punta Arenas",
+    "fecha_inicio": "2025-02-01",
+    "fecha_fin": "2025-02-04",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "doble",
+    "num_huespedes": 2,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "hotel": "CC Puerto Montt",
+    "fecha_inicio": "2025-02-04",
+    "fecha_fin": "2025-02-06",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "doble",
+    "num_huespedes": 2,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "hotel": "CC Arica",
+    "fecha_inicio": "2025-03-04",
+    "fecha_fin": "2025-03-06",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Triple",
+    "num_huespedes": 3,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      },
+      {
+        "nombre": "Max Kaiser",
+        "rut, pasaporte o DNI": "10555555-2"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "hotel": "CC Iquique",
+    "fecha_inicio": "2025-03-06",
+    "fecha_fin": "2025-03-08",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Cuadruple",
+    "num_huespedes": 4,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      },
+      {
+        "nombre": "Max Kaiser",
+        "rut, pasaporte o DNI": "10555555-2"
+      },
+      {
+        "nombre": "Etzel Kaiser",
+        "rut, pasaporte o DNI": "10888888-2"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "hotel": "CC San Fernando",
+    "fecha_inicio": "2025-04-06",
+    "fecha_fin": "2025-04-08",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Quíntuple",
+    "num_huespedes": 5,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      },
+      {
+        "nombre": "Max Kaiser",
+        "rut, pasaporte o DNI": "10555555-2"
+      },
+      {
+        "nombre": "Etzel Kaiser",
+        "rut, pasaporte o DNI": "10888888-2"
+      },
+      {
+        "nombre": "Leif Magnus Kaiser",
+        "rut, pasaporte o DNI": "10777777-2"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "hotel": "CC Antofagasta",
+    "fecha_inicio": "2025-03-08",
+    "fecha_fin": "2025-03-10",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Quíntuple",
+    "num_huespedes": 5,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      },
+      {
+        "nombre": "Max Kaiser",
+        "rut, pasaporte o DNI": "10555555-2"
+      },
+      {
+        "nombre": "Etzel Kaiser",
+        "rut, pasaporte o DNI": "10888888-2"
+      },
+      {
+        "nombre": "Leif Magnus Kaiser",
+        "rut, pasaporte o DNI": "10777777-2"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "hotel": "CC Copiapó",
+    "fecha_inicio": "2025-02-08",
+    "fecha_fin": "2025-02-10",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Quíntuple",
+    "num_huespedes": 5,
+    "pax": [
+      {
+        "nombre": "Mara Sedini",
+        "rut, pasaporte o DNI": "15333333-2"
+      },
+      {
+        "nombre": "Elizabeth Rodríguez",
+        "rut, pasaporte o DNI": "15444444-2"
+      },
+      {
+        "nombre": "Paz Charpentier",
+        "rut, pasaporte o DNI": "18555555-2"
+      },
+      {
+        "nombre": "Paz Suarez",
+        "rut, pasaporte o DNI": "15888888-2"
+      },
+      {
+        "nombre": "Paula Daza",
+        "rut, pasaporte o DNI": "8777777-2"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "hotel": "CC Coquimbo",
+    "fecha_inicio": "2025-02-10",
+    "fecha_fin": "2025-02-12",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Quíntuple",
+    "num_huespedes": 5,
+    "pax": [
+      {
+        "nombre": "Mara Sedini",
+        "rut, pasaporte o DNI": "15333333-2"
+      },
+      {
+        "nombre": "Elizabeth Rodríguez",
+        "rut, pasaporte o DNI": "15444444-2"
+      },
+      {
+        "nombre": "Paz Charpentier",
+        "rut, pasaporte o DNI": "18555555-2"
+      },
+      {
+        "nombre": "Paz Suarez",
+        "rut, pasaporte o DNI": "15888888-2"
+      },
+      {
+        "nombre": "Paula Daza",
+        "rut, pasaporte o DNI": "8777777-2"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "hotel": "CC Talca",
+    "fecha_inicio": "2025-03-10",
+    "fecha_fin": "2025-03-12",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Triple",
+    "num_huespedes": 3,
+    "pax": [
+      {
+        "nombre": "Nicolás Massu",
+        "rut, pasaporte o DNI": "9333333-2"
+      },
+      {
+        "nombre": "Nicolás Jarry",
+        "rut, pasaporte o DNI": "11444444-2"
+      },
+      {
+        "nombre": "Cristian Garin",
+        "rut, pasaporte o DNI": "11555555-2"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "hotel": "CC Viña del Mar",
+    "fecha_inicio": "2025-04-10",
+    "fecha_fin": "2025-04-12",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Triple",
+    "num_huespedes": 3,
+    "pax": [
+      {
+        "nombre": "Nicolás Massu",
+        "rut, pasaporte o DNI": "9333333-2"
+      },
+      {
+        "nombre": "Nicolás Jarry",
+        "rut, pasaporte o DNI": "11444444-2"
+      },
+      {
+        "nombre": "Cristian Garin",
+        "rut, pasaporte o DNI": "11555555-2"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "hotel": "CC San Fernando",
+    "fecha_inicio": "2025-05-10",
+    "fecha_fin": "2025-05-12",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Triple",
+    "num_huespedes": 3,
+    "pax": [
+      {
+        "nombre": "Nicolás Massu",
+        "rut, pasaporte o DNI": "9333333-2"
+      },
+      {
+        "nombre": "Nicolás Jarry",
+        "rut, pasaporte o DNI": "11444444-2"
+      },
+      {
+        "nombre": "Cristian Garin",
+        "rut, pasaporte o DNI": "11555555-2"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "hotel": "CC Concepción",
+    "fecha_inicio": "2025-05-12",
+    "fecha_fin": "2025-05-15",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Triple",
+    "num_huespedes": 3,
+    "pax": [
+      {
+        "nombre": "Nicolás Massu",
+        "rut, pasaporte o DNI": "9333333-2"
+      },
+      {
+        "nombre": "Nicolás Jarry",
+        "rut, pasaporte o DNI": "11444444-2"
+      },
+      {
+        "nombre": "Cristian Garin",
+        "rut, pasaporte o DNI": "11555555-2"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "hotel": "CC Valdivia",
+    "fecha_inicio": "2025-02-12",
+    "fecha_fin": "2025-02-15",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Triple",
+    "num_huespedes": 3,
+    "pax": [
+      {
+        "nombre": "Nicolás Massu",
+        "rut, pasaporte o DNI": "9333333-2"
+      },
+      {
+        "nombre": "Nicolás Jarry",
+        "rut, pasaporte o DNI": "11444444-2"
+      },
+      {
+        "nombre": "Cristian Garin",
+        "rut, pasaporte o DNI": "11555555-2"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "hotel": "CC Talca",
+    "fecha_inicio": "2025-03-01",
+    "fecha_fin": "2025-03-03",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Cristian Garin",
+        "rut, pasaporte o DNI": "11555555-2"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "hotel": "CC Concepción",
+    "fecha_inicio": "2025-04-08",
+    "fecha_fin": "2025-04-10",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Quíntuple",
+    "num_huespedes": 5,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      },
+      {
+        "nombre": "Max Kaiser",
+        "rut, pasaporte o DNI": "10555555-2"
+      },
+      {
+        "nombre": "Etzel Kaiser",
+        "rut, pasaporte o DNI": "10888888-2"
+      },
+      {
+        "nombre": "Leif Magnus Kaiser",
+        "rut, pasaporte o DNI": "10777777-2"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "hotel": "CC Coyhaique",
+    "fecha_inicio": "2025-06-08",
+    "fecha_fin": "2025-06-12",
+    "estado": "confirmada",
+    "pago": "pagada",
+    "tipo_habitacion": "Cuadruple",
+    "num_huespedes": 4,
+    "pax": [
+      {
+        "nombre": "Axel Kaiser",
+        "rut, pasaporte o DNI": "10333333-2"
+      },
+      {
+        "nombre": "Johannes Kaiser",
+        "rut, pasaporte o DNI": "10444444-2"
+      },
+      {
+        "nombre": "Etzel Kaiser",
+        "rut, pasaporte o DNI": "10888888-2"
+      },
+      {
+        "nombre": "Leif Magnus Kaiser",
+        "rut, pasaporte o DNI": "10777777-2"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "hotel": "CC Coyhaique",
+    "fecha_inicio": "2025-01-20",
+    "fecha_fin": "2025-01-22",
+    "estado": "no show",
+    "pago": "multa pagada",
+    "tipo_habitacion": "individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Franco Parisi",
+        "rut, pasaporte o DNI": "10111111-1"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "hotel": "CC Coquimbo",
+    "fecha_inicio": "2025-03-20",
+    "fecha_fin": "2025-03-22",
+    "estado": "solicitada",
+    "pago": "pendiente",
+    "tipo_habitacion": "individual",
+    "num_huespedes": 1,
+    "pax": [
+      {
+        "nombre": "Franco Parisi",
+        "rut, pasaporte o DNI": "10111111-1"
+      }
+    ]
+  }
+]

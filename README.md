@@ -182,3 +182,15 @@ router.get("/:id", obtenerReservaPorId); // obtener una reserva por ID
 router.put("/:id", actualizarReserva); // Actualizar reserva
 router.delete("/:id", eliminarReserva); // Eliminar la reserva por ID
 ```
+
+## Dependencias
+```
+"dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.0.5"
+  }
+```

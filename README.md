@@ -27,14 +27,14 @@ information:
   description: Aplicación de servicios CRUD para la gestión de reservas de hoteles.
   version: 1.0.0
   servers: 
-  - url: 
+  - url: http://localhost:9000/api/reservas
     description: entorno de desarrollo de APIs.
   tags: 
   - name: reservas
     descriprion: Este endpoint maneja toda la información relacionada con las reservas.
   
   paths:
-    /reservas
+    /api/reservas
     get:
       summary: Para obtener todas las reservas.
       description: Devuelve todas las reservas de la base de datos.
@@ -138,26 +138,33 @@ information:
           hotel:
             type: string
             description: nombre del hotel.
+            required: true
           fecha_inicio:
             type: string
             description: fecha de check in o inicio de la reserva en formato YYYY-MM-DD.
+            required: true
           fecha_fin:
             type: string
             description: fecha de check out o final de la reserva en formato YYYY-MM-DD.
+            required: true
           estado:
             type: string
             description: estado actual de la reserva, confirmada, solicitada o no show.
+            required: true
           pago:
             type: string
             description: estado del pago, pagada, pendiente o multa pagada.
+            required: true
           tipo_habitacion:
             type: string
             description: tipo de habitación, individual, doble, triple, cuadruple o quintuple.
+            required: true
           num_huespedes:
             type: string
             description: número de huespedes de la reserva.
+            required: true
           pax:
             type: array de objetos
             description: arreglo de pasajeros de la reserva. Cada huesped tiene nombre y rut, pasaporte o DNI.
-          required: true
+            required: true
 ```
